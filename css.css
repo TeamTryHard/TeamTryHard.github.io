@@ -84,6 +84,13 @@ small {
 h4 {
   font-size: 50px;
   text-align: center;
+  color: white;
+}
+h3{
+  color: white;
+}
+.aboutus{
+  color: white;
 }
 .show-description p {
   height: 150px;
