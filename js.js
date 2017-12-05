@@ -1,4 +1,4 @@
-$(document).ready(function() {
+
 
 
 
@@ -51,4 +51,4 @@ $('#price').change(function(){
 
 
 
-});
+
