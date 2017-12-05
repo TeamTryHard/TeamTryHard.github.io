@@ -54,7 +54,10 @@ p {
 small {
   opacity: 0;
 }
-
+h4 {
+  font-size: 50px;
+  text-align: center;
+}
 .show-description p {
   height: 150px;
 }
@@ -93,7 +96,6 @@ small {
 .price {
   float: right;
 }
-
 @media (max-width: 500px) {
   h1 {
     font-size: 50px;
