@@ -2,7 +2,7 @@ body {
   font-family: 'Boogaloo', cursive;
   margin: 0 auto;
   max-width: 800px;
-  background: "#6d6d6d";
+  background: #6d6d6d;
 }
 
 #myInput {
@@ -32,7 +32,7 @@ body {
   font-family: 'Boogaloo', cursive;
   text-align: center;
   font-size: 75px;
-  color: #424242;;
+  color: #424242;
   margin: 60px 0 0 0;
 
 }
