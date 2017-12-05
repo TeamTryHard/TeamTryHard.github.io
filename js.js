@@ -1,8 +1,5 @@
 
-
-
-
-  $('.pub').on('click', function() {
+$('.pub').on('click', function() {
       $(this).toggleClass('show-description');
   });
 
@@ -40,11 +37,12 @@ $('#price').change(function(){
     $.each($.viewMap, function() { this.hide(); });
     // show current
     $.viewMap[$(this).val()].show();
-  }); */
+  }); 
 $('#price').change(function(){
 	$('.each')('#pub', function() { this.hide(); });
 	$#pub[$(this).val()].show();
   });
+  */
 
 
 
