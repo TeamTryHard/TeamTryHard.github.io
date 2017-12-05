@@ -43,7 +43,7 @@ h2 {
   font-family: 'Boogaloo', cursive;
   color: #bbbbbb;
 }
-<<<<<<< HEAD
+
 
 .pub {
   height: 200px;
@@ -56,8 +56,6 @@ h2 {
 }
 
 
-=======
->>>>>>> c503eb48e2bb56fd88a53fb34ac5988a78e47abc
 p {
   color: rgba(255,255,255,1);
   background: black;
@@ -71,7 +69,7 @@ p {
   bottom: 0;
   margin: 0;
   height: 30px;
-  transition: height .8s;
+  transition: height .5s;
   -webkit-transition: height .5s;
   -moz-transition: height .5s;
 }
@@ -121,7 +119,7 @@ h4 {
 .price {
   float: right;
 }
-<<<<<<< HEAD
+
 
 
 
@@ -129,8 +127,7 @@ h4 {
 
 #contact{text-align: center;}
 
-=======
->>>>>>> c503eb48e2bb56fd88a53fb34ac5988a78e47abc
+
 @media (max-width: 500px) {
   h1 {
     font-size: 50px;
@@ -152,3 +149,5 @@ h4 {
     font-size: 16px;
   }
 }
+
+.share {max-width: 600px;margin:0 auto;}
