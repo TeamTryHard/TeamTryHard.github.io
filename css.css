@@ -3,7 +3,7 @@ body {
   font-family: 'Boogaloo', cursive;
   margin: 0 auto;
   max-width: 800px;
-  background-color: "#bdbdbd";
+  background: "#6d6d6d";
 }
 
 #myInput {
@@ -16,14 +16,24 @@ body {
     margin-bottom: 12px;
 }
 .head{background-image: url('https://images.unsplash.com/photo-1501406538164-8dfdc80aa947?auto=format&fit=crop&w=2089&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D');
+.row {padding: 0 0 0 10px}
+.pub {
+  height: 200px;
   background-size: cover;
 max-width: 766px;}
+  position: relative;
+  margin: 40px 10px 0 10px;
+  padding: 0 10px 0 10px;
+  border-radius: 12px;
+  max-width: 250px;
+}
+
 
 .title {
-  text-align: center;
   font-family: 'Boogaloo', cursive;
+  text-align: center;
   font-size: 75px;
-  color: #aaaaaa;
+  color: #424242;;
   margin: 60px 0 0 0;
 }
 
