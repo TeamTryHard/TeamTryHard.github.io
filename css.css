@@ -1,3 +1,4 @@
+#fb-root {height:0;}
 body {
   font-family: 'Boogaloo', cursive;
   margin: 0 auto;
@@ -14,8 +15,26 @@ body {
     border: 1px solid #ddd;
     margin-bottom: 12px;
 }
+.head{background-image: url('https://images.unsplash.com/photo-1501406538164-8dfdc80aa947?auto=format&fit=crop&w=2089&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D');
+  background-size: cover;
+max-width: 800px;}
 
-.row {padding: 0 0 0 10px}
+.title {
+  text-align: center;
+  font-family: 'Boogaloo', cursive;
+  font-size: 75px;
+  color: #aaaaaa;
+  margin: 60px 0 0 0;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Boogaloo', cursive;
+  color: #bbbbbb;
+  margin: 0px 0 70px 0;
+}
+
+.container-fluid {width: 100%}
 .pub {
   height: 200px;
   background-size: cover;
@@ -27,22 +46,6 @@ body {
 }
 
 
-#fb-root {height:0;}
-.title {
-  font-family: 'Boogaloo', cursive;
-  text-align: center;
-  font-size: 75px;
-  color: #aaaaaa;
-  margin: 60px 0 0 0;
-}
-
-
-h2 {
-  text-align: center;
-  font-family: 'Boogaloo', cursive;
-  color: #bbbbbb;
-  margin: 0px 0 70px 0;
-}
 p {
   color: rgba(255,255,255,1);
   background: black;
@@ -56,7 +59,7 @@ p {
   bottom: 0;
   margin: 0;
   height: 30px;
-  transition: height .8s;
+  transition: height .5s;
   -webkit-transition: height .5s;
   -moz-transition: height .5s;
 }
@@ -127,3 +130,7 @@ h4 {
     font-size: 16px;
   }
 }
+
+
+.share {margin: 0 auto;
+max-width:600px;}
