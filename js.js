@@ -1,3 +1,3 @@
-  $('div').on('click', function() {
+  $('.pub').on('click', function() {
       $(this).toggleClass('show-description');
   });

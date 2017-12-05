@@ -1,17 +1,18 @@
 body {
   font-family: 'Boogaloo', cursive;
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 800px;
   background: #FFF;
 }
 
-
+.row {padding: 0 0 0 10px}
 .pub {
   height: 200px;
   background-size: cover;
   position: relative;
-  margin: 40px 0 0 0;
+  margin: 40px 10px 0 10px;
   border-radius: 12px;
+  max-width: 250px;
 }
 
 
@@ -42,7 +43,7 @@ p {
   bottom: 0;
   margin: 0;
   height: 30px;
-  transition: height .5s;
+  transition: height .8s;
   -webkit-transition: height .5s;
   -moz-transition: height .5s;
 }
