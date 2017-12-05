@@ -3,16 +3,16 @@ body {
   font-family: 'Boogaloo', cursive;
   margin: 0 auto;
   max-width: 800px;
-  background: #FFF;
+  background-color: "#bdbdbd";
 }
 
 #myInput {
     background-image: url('searchicon.png');
-    background-position: 10px 12px; 
-    background-repeat: no-repeat; 
-    font-size: 16px; 
-    padding: 12px 20px 12px 40px; 
-    border: 1px solid #ddd; 
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
     margin-bottom: 12px;
 }
 .head{background-image: url('https://images.unsplash.com/photo-1501406538164-8dfdc80aa947?auto=format&fit=crop&w=2089&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D');
