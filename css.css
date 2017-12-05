@@ -123,7 +123,7 @@ h4 {
 .price {
   float: right;
 }
-<<<<<<< HEAD
+
 
 
 
@@ -132,9 +132,6 @@ h4 {
 
 #contact{text-align: center;}
 
-
-=======
->>>>>>> bdc09bd8a2f15ae2071b71df6d4f65b9c85b7175
 @media (max-width: 500px) {
   h1 {
     font-size: 50px;
