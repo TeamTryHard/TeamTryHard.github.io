@@ -15,6 +15,9 @@ body {
     margin-bottom: 12px;
 }
 
+.head{background-image: url('https://images.unsplash.com/photo-1501406538164-8dfdc80aa947?auto=format&fit=crop&w=2089&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D');
+   background-size:cover;
+  max-width: 798px}
 .row {padding: 0 0 0 10px}
 .pub {
   height: 200px;
