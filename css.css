@@ -26,7 +26,6 @@ body {
   max-width: 250px;
 }
 
-
 #fb-root {height:0;}
 .title {
   font-family: 'Boogaloo', cursive;
@@ -65,10 +64,7 @@ p {
 small {
   opacity: 0;
 }
-h4 {
-  font-size: 50px;
-  text-align: center;
-}
+
 .show-description p {
   height: 150px;
 }
@@ -107,6 +103,11 @@ h4 {
 .price {
   float: right;
 }
+
+
+
+.fb{margin:0 auto;}
+
 @media (max-width: 500px) {
   h1 {
     font-size: 50px;
@@ -128,3 +129,11 @@ h4 {
     font-size: 16px;
   }
 }
+
+h4 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.share {margin: 0 auto;
+max-width:600px;}
