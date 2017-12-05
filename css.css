@@ -12,7 +12,7 @@ body {
     font-size: 16px;
     padding: 12px 20px 12px 40px;
     border: 1px solid #ddd;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 .row {padding: 0 0 0 10px}
@@ -93,7 +93,7 @@ h3{
   color: white;
 }
 .show-description p {
-  height: 150px;
+  height: 190px;
 }
 
 .show-description small {
@@ -131,7 +131,9 @@ h3{
   float: right;
 }
 
-
+.text-center{
+  color: white;
+}
 
 
 
@@ -139,7 +141,7 @@ h3{
 
 #contact{text-align: center;}
 
-.share{max-width: 600px;
+.share{max-width: 500px;
 margin:0 auto;}
 
 @media (max-width: 500px) {
