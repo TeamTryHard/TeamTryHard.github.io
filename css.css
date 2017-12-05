@@ -72,9 +72,28 @@ small {
 .third{
   background-image: url("https://lh4.googleusercontent.com/ZoU1LlSpQ0LNiaUtPvCEYVpwproBRb9lKAn0Ig_LMcw5g9_w7lwV0zU6hDQxadsZHpr7dY-CFVMFCkRDR1W8CHIePCwa3b6AFuu2PvhvGXqJi0yOwDb2_9KRrPRuTB71l7_CWvja");
 }
+.fourth{
+  background-image: url("https://www.wow247.co.uk/wp-content/uploads/2015/06/Fox-And-Duck-Pub.jpg");
+}
+.fifth{
+  background-image: url("http://www.sheffieldinsider.co.uk/wfr/img/The-Nottingham-House-Broomhill-1-600-Web.jpg");
+}
+.sixth{
+  background-image: url("http://sheffieldalepubs.co.uk/wp-content/uploads/2015/01/c2976833-a3e7-4d9d-90b8-17c00c2d519a_image_jpeg.jpg");
+}
+.seventh{
+  background-image: url("https://whatpub.com/img/SHF/222/bungalows-bears-sheffield/298/224/93314");
+}
+.eighth{
+  background-image: url("http://www.hotel-r.net/im/hotel/gb/the-harley-24.jpg");
+}
+.ninth{
+  background-image: url("https://12while2.files.wordpress.com/2013/06/20130625-000324.jpg");
+}
 .price {
   float: right;
 }
+
 @media (max-width: 500px) {
   h1 {
     font-size: 50px;
